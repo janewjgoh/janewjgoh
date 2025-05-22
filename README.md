@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @janewjgoh
-- 🌱 I’m currently learning analytics using Python, R, SQL
+- 🌱 Analytics w/ Python, R, SQL
 
 
 <!---
